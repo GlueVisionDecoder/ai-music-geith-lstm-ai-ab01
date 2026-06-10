@@ -1,4 +1,4 @@
-# 
+# New AI Music Generator with LSTM scripts. Featuring neural-networks and cloud-AI — optimized for maximum performance.
 
 
 
